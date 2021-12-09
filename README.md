@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![kiznick's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kiznick)
 ![kiznick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiznick&count_private=true&show_icons=true&theme=radical&hide=stars)
 
 <!--
