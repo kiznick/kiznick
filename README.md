@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/kiznick/kiznick/output/github-contribution-grid-snake.svg)
+
 ![kiznick's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=kiznick&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![kiznick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiznick&count_private=true&show_icons=true&theme=radical&hide=stars)
