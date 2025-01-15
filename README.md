@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kiznick&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.kiznick.me?user=kiznick&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak" />
 </div>
 
 ###
