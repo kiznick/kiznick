@@ -38,12 +38,8 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,css,arduino,bootstrap,c,cpp,cloudflare,discord,bots,discordjs,docker,electron,flutter,git,github,githubactions,go,jquery,mongodb,mysql,nextjs,nginx,nodejs,npm,nuxtjs,php,pnpm,postgres,postman,prisma,py,rabbitmq,raspberrypi,react,redis,redux,regex,svg,tailwind,ts,ubuntu,vercel,vite,vscode,vue,webpack,windows,windows,workers,yarn" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,js,css,arduino,bootstrap,c,cpp,cloudflare,discord,bots,discordjs,docker,electron,flutter,git,github,githubactions,go,jquery,mongodb,mysql,nextjs,nginx,nodejs,npm,nuxtjs,php,pnpm,postgres,postman,prisma,py,rabbitmq,raspberrypi,react,redis,redux,regex,svg,tailwind,ts,ubuntu,vercel,vite,vscode,vue,windows,windows,workers,yarn" alt="My Skills" />
 </div>
 
 ###
